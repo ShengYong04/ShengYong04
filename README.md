@@ -10,7 +10,7 @@
 
 ## Project Experience
 <h3>AcademyHub</h3>
-<text>Collaborated with a team to develop an interactive online learning platform aimed at enhancing student engagement and self-paced learning. The platform features interactive learning modules, real-time chat, discussion forums, assessments, and a personalized progress dashboard. Built using Flutter and Dart for cross-platform compatibility, ensuring a smooth and responsive experience across both Android and iOS devices. The system integrates Firebase for authentication, real-time database, and cloud storage to manage user data and course content effectively..</text> 
+<text>Collaborated with a team of 2 to develop an interactive online learning platform aimed at enhancing student engagement and self-paced learning. The platform features interactive learning modules, real-time chat, discussion forums, assessments, and a personalized progress dashboard. Built using Flutter and Dart for cross-platform compatibility, ensuring a smooth and responsive experience across both Android and iOS devices. The system integrates Firebase for authentication, real-time database, and cloud storage to manage user data and course content effectively..</text> 
 <text> Programming Language: Dart</text><br/>
 
 <h3>Yummily Food Chatbot</h3>
