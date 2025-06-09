@@ -3,12 +3,16 @@
 <text> Hi and welcome to my GitHub profile! I am an individual pursuing a Bachelor Degree in Software Engineering. I enjoy developing projects in various languages and I am always eager and open to learn new things. </text>
 
 ## Programming Languages and Tools
-- Languages: C++, Java, Flutter, Dart, JavaScript, HTML, Python, 
+- Languages: C++, Java, Flutter, Dart, HTML, Python, 
 - Database Management: Firebase, MySQL, Oracle DB
 - Framework: Flutter
 - Tools: GitHub
 
 ## Project Experience
+<h3>AcademyHub</h3>
+<text>Collaborated with a team to develop an interactive online learning platform aimed at enhancing student engagement and self-paced learning. The platform features interactive learning modules, real-time chat, discussion forums, assessments, and a personalized progress dashboard. Built using Flutter and Dart for cross-platform compatibility, ensuring a smooth and responsive experience across both Android and iOS devices. The system integrates Firebase for authentication, real-time database, and cloud storage to manage user data and course content effectively..</text> 
+<text> Programming Language: Dart</text><br/>
+
 <h3>Yummily Food Chatbot</h3>
 <text>Collaborated with a team of 3 to develop an AI-powered food chatbot designed to provide users with personalised recipe suggestions and cooking guidance. The chatbot understands natural language queries and responds with relevant recipes, ingredients, and preparation steps. Developed using Python with machine learning and natural language processing libraries, and trained on a curated food recipe dataset.</text> 
 <text> Programming Language: Python</text><br/>
