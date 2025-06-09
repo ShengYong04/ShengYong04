@@ -21,7 +21,7 @@
 
 <h3>HELP Charity</h3> 
 <text>Collaborated with a team of 4 to design a charity management system to efficiently manage and streamline charitable activities by handling key components such as donees, donors, donations, and distributions. It allows the registration and management of different types of beneficiaries and ensure proper validation of input data. Donor profiles and their contributions are recorded, while the system also keeps track of aid distributions to donees. The goal is to provide a structured and reliable way to organize and monitor charitable efforts.</text>
-🔗 Repository: https://github.com/ShengYong04/HELP-Charity
+🔗 Repository: https://github.com/ShengYong04/HELP-Charity 
 
   
   
